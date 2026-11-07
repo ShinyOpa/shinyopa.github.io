@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.shinyopa.twa",
+      "sha256_cert_fingerprints": [
+        "F5:B3:33:1A:82:A7:3A:35:26:54:EA:AE:35:FA:D6:A7:88:A1:F3:91:61:4C:1B:0B:29:B3:19:8D:C3:3B:AE:C9"
+      ]
+    }
+  }
+]
